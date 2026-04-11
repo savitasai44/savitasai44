@@ -18,6 +18,21 @@
 
 ---
 
+
+
+### 💅 My Tech Stack 💖
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
 ### 🚀 Skills
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,linux" />
