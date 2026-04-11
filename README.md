@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://www.google.com/imgres?q=cartoon%20girl%20coding%20developer%20coding%20animated%20images&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fyoung-anime-girl-coding-laptop-computer-programming-code-displayed-vibrant-purple-pigtails-intensely-focused-her-383138728.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fgirl-coding-web-page-girl-coding-web-page-listening-to-music-night-image253185016&docid=_SF5ZEJyqO9v2M&tbnid=AqbAyrJ9mafotM&vet=12ahUKEwjOxsv4wOWTAxX-mq8BHWO0HRYQnPAOegQIOBAB..i&w=800&h=449&hcb=2&ved=2ahUKEwjOxsv4wOWTAxX-mq8BHWO0HRYQnPAOegQIOBAB">
 
 ### 👩‍💻 About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
@@ -24,7 +24,6 @@
 - 🎯 Goal: Become a **Software Engineer**
 - 📍 Based in India
 
----
 ---
 
 ### 💅 My Tech Stack
