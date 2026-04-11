@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Savi
- <img src="https://ih1.redbubble.net/image.5376124497.6760/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="150"/> </h1>
+ </h1>
  
 <p align="center">
+  <img src="https://ih1.redbubble.net/image.5376124497.6760/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="100"/>
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Always+Learning" />
 </p>
 
