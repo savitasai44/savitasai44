@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Hi%20I%20am%20Savi&fontSize=35&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" width="100%"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Savi
  <img src="https://img.icons8.com/color/96/female-profile.png" width="40"/> </h1>
  
