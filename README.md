@@ -1,49 +1,56 @@
-<h1 align="center">Hi 👋, I'm Savi 💖</h1>
+<h1 align="center">Hi 👋, I'm Savi 🌙</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Hi+I+am+Savi;Java+Developer;Full+Stack+Learner;Cybersecurity+Explorer;Dream+Big+💫" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Hi+I+am+Savi;Java+Developer;Full+Stack+Learner;Cybersecurity+Explorer" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Welcome%20Savi%20💖&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=180&section=header&text=Welcome%20to%20My%20Dark%20World&fontSize=30&fontColor=ffffff" />
 </p>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/1BcfiGlOGXzQY/giphy.gif" width="250"/>
+### 👩‍💻 About Me 🌌
+<img align="right" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 
-### 👩‍💻 About Me 💕
-- 💖 Hi, I am **Savi**
+- 🌙 Hi, I am **Savi**
 - 💻 Java Developer
-- 🌱 Learning Ethical Hacking & Web Dev
-- 🎯 Dream: Software Engineer 👩‍💻✨
+- 🌱 Learning Ethical Hacking
+- 🎯 Goal: Software Engineer
 
 ---
 
-### 💅 Skills
+# 🚀 Skills (Hover Effect)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode&theme=light" />
+<a href="#"><img src="https://skillicons.dev/icons?i=java" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p>
 
 ---
 
-### 🌸 Cute Animation
+# 🎯 Projects (Hover Cards)
 <p align="center">
-<img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="200"/>
+<a href="https://github.com/savitasai44">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=savitasai44&repo=YOUR_REPO&theme=tokyonight" />
+</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats 💗
+# 📊 Stats (Dark Theme)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=savitasai44&show_icons=true&theme=rose_pine" />
+<img src="https://github-readme-stats.vercel.app/api?username=savitasai44&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=savitasai44&theme=tokyonight" />
 </p>
 
 ---
 
-### 🐍 Snake Animation 💕
+# 🐍 Snake Animation
 <p align="center">
 <img src="https://raw.githubusercontent.com/savitasai44/savitasai44/output/github-contribution-grid-snake.svg" />
 </p>
@@ -51,11 +58,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
-</p>
-
----
-
-<p align="center">
-💖 <b>"She believed she could, so she coded 💻✨"</b>
+🌙 <b>"Code in dark, shine in light ✨"</b>
 </p>
