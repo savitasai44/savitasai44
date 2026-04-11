@@ -1,68 +1,60 @@
+
 <h1 align="center">Hi 👋, I'm Savi</h1>
 
 <p align="center">
-💻 Java Developer | 🌐 Full Stack Learner | 🔐 Cybersecurity Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Cybersecurity+Enthusiast;Always+Learning" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" src="https://raw.githubusercontent.com/savitasai44/savitasai44/main/savi.jpg" width="130"/>
-
-- 👩‍💻 Passionate Java Developer  
-- 🌱 Currently learning Full Stack Development & Ethical Hacking  
-- 🔭 Working on PhoneBook Web Application (Servlet + MySQL)  
-- 🎯 Goal: Become a Software Engineer  
-- 📍 India  
+### 👩‍💻 About Me
+- 🔭 Working on **PhoneBook Web App (Servlet + MySQL)**
+- 🌱 Learning **Kali Linux & Ethical Hacking**
+- 💬 Ask me about **Java, Web Development**
+- 🎯 Goal: **Software Engineer**
+- 📫 Email: **your-email@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
-
-<p>
+### 🚀 Skills
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **PhoneBook Web App**  
-→ CRUD Operations | Login System | Search Feature  
-
-🔹 **Family Website**  
-→ Responsive UI | HTML CSS Design  
-
-🔹 **Invitation Card UI**  
-→ Creative Frontend Design  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=savitasai44&show_icons=true&theme=default" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=savitasai44&theme=default" />
-</p>
-
----
-
-## 🐍 Contributions
-
+### 🐍 Contribution Snake Animation
 <p align="center">
 <img src="https://raw.githubusercontent.com/savitasai44/savitasai44/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🔗 Connect
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=savitasai44&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=savitasai44&theme=tokyonight" />
+</p>
 
-- 📧 your-email@gmail.com  
-- 💼 LinkedIn (add link)
+---
+
+### 🏆 Achievements
+- 💻 PhoneBook App (CRUD + Login + Search)
+- 🌐 Family Website
+- 🎨 Invitation Card UI
+
+---
+
+### 🔗 Connect With Me
+<p align="center">
+<a href="#">LinkedIn</a> |
+<a href="mailto:your-email@gmail.com">Email</a>
+</p>
 
 ---
 
 <p align="center">
-<b>“Consistency > Motivation”</b>
+✨ <b>"Code • Learn • Repeat"</b> ✨
 </p>
