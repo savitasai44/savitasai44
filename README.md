@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Savi
- <img src="https://ih1.redbubble.net/image.5376124497.6760/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="40"/> </h1>
+ <img src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg?semt=ais_hybrid&w=740&q=80" width="80"/> </h1>
  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Always+Learning" />
