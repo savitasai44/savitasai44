@@ -1,20 +1,6 @@
-<h1 align="center">
-  <img src="https://img.icons8.com/color/96/source-code.png" width="40"/> 
-  Hi 👋, I'm Savi
-</h1>
 
-<p align="center">
-  💻 Java Developer | 🌐 Full Stack Learner | 🔐 Cybersecurity Enthusiast
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-Professional-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Java%20Development-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-green?style=for-the-badge"/>
-</p>
-
----
-<h1 align="center">Hi 👋, I'm Savi</h1>
+<h1 align="center">Hi 👋, I'm Savi
+<img src="https://img.icons8.com/color/96/source-code.png" width="40"/> </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Cybersecurity+Enthusiast;Always+Learning" />
