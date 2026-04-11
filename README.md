@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=5&section=header"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Savi
  <img src="https://img.icons8.com/color/96/female-profile.png" width="40"/> </h1>
