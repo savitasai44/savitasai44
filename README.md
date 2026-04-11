@@ -11,16 +11,30 @@
 </p>
 
 ---
+## 👩‍💻 About Me 🌙
 
-### 👩‍💻 About Me 🌌
-<img align="right" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
 
-- 🌙 Hi, I am **Savi**
-- 💻 Java Developer
-- 🌱 Learning Ethical Hacking
-- 🎯 Goal: Software Engineer
+<p align="center">
+💖 Hi, I am <b>Savi</b>  
+💻 Java Developer  
+🌱 Learning Ethical Hacking & Web Development  
+🎯 Dream: Software Engineer  
+</p>
 
 ---
+
+### 🌸 My Journey
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+✨ Coding • Learning • Growing 💫
+</p>
 
 # 🚀 Skills (Hover Effect)
 <p align="center">
