@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Savi</h1>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/savitasai44/savitasai44/main/savi.jpg" width="150" style="border-radius:50%; box-shadow: 0 0 20px #ff69b4;" />
+</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Cybersecurity+Enthusiast;Always+Learning" />
