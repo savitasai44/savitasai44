@@ -6,12 +6,9 @@
 </p>
 
 
-
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=25&lines=Hi+I+am+Savi;Java+Developer;Full+Stack+Learner;Cybersecurity+Explorer;Dream+Big+💫" />
 </p>
-
 
 ---
 
@@ -26,7 +23,18 @@
 
 ---
 
+### 💅 My Tech Stack
 
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+
+---
 
 ### 🌸 My Journey
 <p align="center">
