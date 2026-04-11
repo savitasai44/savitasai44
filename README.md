@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Savi
  <img src="https://img.icons8.com/color/96/female-profile.png" width="40"/> </h1>
  
