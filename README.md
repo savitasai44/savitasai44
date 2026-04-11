@@ -1,13 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Savi</h1>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=180&section=header&text=Welcome%20Savi%20💖&fontSize=35&fontColor=ffffff" />
-</p>
 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Cybersecurity+Enthusiast;Always+Learning" />
 </p>
+
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=25&lines=Hi+I+am+Savi;Java+Developer;Full+Stack+Learner;Cybersecurity+Explorer;Dream+Big+💫" />
+</p>
+
 
 ---
 
