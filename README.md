@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Hi%20I%20am%20Savi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <h1 align="center">Hi 👋, I'm Savi
  <img src="https://img.icons8.com/color/96/female-profile.png" width="40"/> </h1>
