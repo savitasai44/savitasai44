@@ -40,6 +40,17 @@
 
 ---
 
+
+
+
+### ⚡ Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=savitasai44&theme=tokyo-night&area=true" />
+</p>
+
+---
+
 ### 🏆 Achievements
 - 💻 PhoneBook App (CRUD + Login + Search)
 - 🌐 Family Website
