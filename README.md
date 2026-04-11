@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Savi</h1>
 
@@ -51,7 +50,7 @@
 ### 🔗 Connect With Me
 <p align="center">
 <a href="#">LinkedIn</a> |
-<a href="mailto:your-email@gmail.com">Email</a>
+<a href="mailto:dhembresavita58@gmail.com">Email</a>
 </p>
 
 ---
