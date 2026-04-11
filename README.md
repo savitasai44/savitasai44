@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Savi
- <img src="https://img.icons8.com/color/96/female-profile.png" width="40"/> </h1>
+ <img src="https://ih1.redbubble.net/image.5376124497.6760/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="40"/> </h1>
  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Always+Learning" />
@@ -12,10 +12,10 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://thumbs.dreamstime.com/b/young-anime-girl-coding-laptop-computer-programming-code-displayed-vibrant-purple-pigtails-intensely-focused-her-383138728.jpg">
+<img align="right" alt="coding" width="250" src="https://thumbs.dreamstime.com/b/young-anime-girl-coding-laptop-computer-programming-code-displayed-vibrant-purple-pigtails-intensely-focused-her-383138728.jpg">
 
 ### 👩‍💻 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 - 💻 I am a **Java Developer**
 - 🔭 Currently working on **PhoneBook Web Application (Servlet + MySQL)**
