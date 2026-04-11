@@ -1,16 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Hi%20I%20am%20Savi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Savi
  <img src="https://img.icons8.com/color/96/female-profile.png" width="40"/> </h1>
  
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Cybersecurity+Enthusiast;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Always+Learning" />
 </p>
 
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=25&lines=Hi+I+am+Savi;Java+Developer;Full+Stack+Learner;Cybersecurity+Explorer;Dream+Big+💫" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&size=21&lines=Hi+I+am+Savi;Java+Developer;Full+Stack+Learner;💫" />
 </p>
 
 ---
@@ -18,12 +15,16 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👩‍💻 About Me
-- 🔭 Working on **PhoneBook Web App (Servlet + MySQL)**
-- 🌱 Learning **Kali Linux & Ethical Hacking**
-- 💬 Ask me about **Java, Web Development**
-- 🎯 Goal: **Software Engineer**
-- 📫 Email: **your-email@gmail.com**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
+- 💻 I am a **Java Developer**
+- 🔭 Currently working on **PhoneBook Web Application (Servlet + MySQL)**
+- 🌱 Learning **Full Stack Development & Cybersecurity**
+- 💡 Strong interest in **Backend Development**
+- 🎯 Goal: Become a **Software Engineer**
+- 📍 Based in India
+
+---
 ---
 
 ### 💅 My Tech Stack
@@ -89,7 +90,7 @@
 ### 🏆 Achievements
 - 💻 PhoneBook App (CRUD + Login + Search)
 - 🌐 Family Website
-- 🎨 Invitation Card UI
+- 🎨 Design frontend..
 
 ---
 
@@ -105,7 +106,7 @@
 ### 🔗 Connect With Me
 <p align="center">
 <a href="#">LinkedIn</a> |
-<a href="mailto:your-email@gmail.com">Email</a>
+<a href="dhembresavita58@gmail.com">Email</a>
 </p>
 
 ---
