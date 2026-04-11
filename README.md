@@ -1,59 +1,61 @@
-<h1 align="center">Hi 👋, I'm Savi</h1>
+<h1 align="center">Hi 👋, I'm Savi 💖</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Cybersecurity+Enthusiast;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Hi+I+am+Savi;Java+Developer;Full+Stack+Learner;Cybersecurity+Explorer;Dream+Big+💫" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 👩‍💻 About Me
-- 🔭 Working on **PhoneBook Web App (Servlet + MySQL)**
-- 🌱 Learning **Kali Linux & Ethical Hacking**
-- 💬 Ask me about **Java, Web Development**
-- 🎯 Goal: **Software Engineer**
-- 📫 Email: **your-email@gmail.com**
-
----
-
-### 🚀 Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,linux" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Welcome%20Savi%20💖&fontSize=35&fontColor=ffffff" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake Animation
+<img align="right" src="https://media.giphy.com/media/1BcfiGlOGXzQY/giphy.gif" width="250"/>
+
+### 👩‍💻 About Me 💕
+- 💖 Hi, I am **Savi**
+- 💻 Java Developer
+- 🌱 Learning Ethical Hacking & Web Dev
+- 🎯 Dream: Software Engineer 👩‍💻✨
+
+---
+
+### 💅 Skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode&theme=light" />
+</p>
+
+---
+
+### 🌸 Cute Animation
+<p align="center">
+<img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="200"/>
+</p>
+
+---
+
+### 📊 GitHub Stats 💗
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=savitasai44&show_icons=true&theme=rose_pine" />
+</p>
+
+---
+
+### 🐍 Snake Animation 💕
 <p align="center">
 <img src="https://raw.githubusercontent.com/savitasai44/savitasai44/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=savitasai44&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=savitasai44&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements
-- 💻 PhoneBook App (CRUD + Login + Search)
-- 🌐 Family Website
-- 🎨 Invitation Card UI
-
----
-
-### 🔗 Connect With Me
-<p align="center">
-<a href="#">LinkedIn</a> |
-<a href="mailto:your-email@gmail.com">Email</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
 </p>
 
 ---
 
 <p align="center">
-✨ <b>"Code • Learn • Repeat"</b> ✨
+💖 <b>"She believed she could, so she coded 💻✨"</b>
 </p>
