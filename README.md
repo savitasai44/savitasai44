@@ -49,6 +49,8 @@
 
 ----
 
+### 🌈 Skills Icons
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,linux" />
 </p>
