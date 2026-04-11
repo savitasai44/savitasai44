@@ -1,69 +1,48 @@
 <h1 align="center">Hi 👋, I'm Savi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF61F6&center=true&vCenter=true&size=25&lines=Java+Developer;Full+Stack+Learner;Cybersecurity+Explorer;Passionate+Coder;Always+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Cybersecurity+Enthusiast;Always+Learning" />
 </p>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=savitasai44&label=Profile%20views&color=ff69b4&style=flat" />
-</p>
-
----
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👩‍💻 About Me
-- 🔭 Working on **PhoneBook Web App**
+- 🔭 Working on **PhoneBook Web App (Servlet + MySQL)**
 - 🌱 Learning **Kali Linux & Ethical Hacking**
-- 💡 Love **Web Design & UI**
+- 💬 Ask me about **Java, Web Development**
 - 🎯 Goal: **Software Engineer**
 - 📫 Email: **your-email@gmail.com**
 
 ---
 
-### 🌈 Skills with Animation
+### 🚀 Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,linux,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,linux" />
 </p>
 
 ---
 
-### ⚡ Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=savitasai44&theme=tokyo-night&area=true" />
-</p>
-
----
-
-### 🐍 Snake Animation
+### 🐍 Contribution Snake Animation
 <p align="center">
 <img src="https://raw.githubusercontent.com/savitasai44/savitasai44/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 📊 Stats Dashboard
+### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=savitasai44&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=savitasai44&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savitasai44&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=savitasai44&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 😂 Fun Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+- 💻 PhoneBook App (CRUD + Login + Search)
+- 🌐 Family Website
+- 🎨 Invitation Card UI
 
 ---
 
@@ -76,5 +55,5 @@
 ---
 
 <p align="center">
-✨ <b>"Dream Big • Code Hard • Stay Consistent"</b> ✨
+✨ <b>"Code • Learn • Repeat"</b> ✨
 </p>
